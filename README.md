@@ -1,8 +1,30 @@
 # React three js fiber model example
 
-Added this libraries to create our poject
+Adding this libraries to create our poject
 
-## `yarn add three react-intersection-observer react-three-fiber drei lerp react-scripts react-spring`
+- WebGL Library
+
+  `yarn add three react-three-fiber` 
+
+- React observer
+  
+  `yarn add react-intersection-observer` 
+
+- Interaction scripts
+  
+  `yarn add drei lerp react-scripts react-spring`
+  
+  
+## Resources:
+
+- [React three js start guide](https://www.smashingmagazine.com/2020/11/threejs-react-three-fiber/)
+- [Building with React and Three.js using React Three Fiber](https://www.youtube.com/watch?v=Qs9A3XIjbg4)
+- [Three.js](https://threejs.org/)
+- [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
+- [Drei](https://github.com/pmndrs/drei)
+- [Sketch Fab](https://sketchfab.com/)
+- [React Intersection Observer](https://github.com/thebuilder/react-intersection-observer)
+
 
 ## Getting Started with Create React App
 
