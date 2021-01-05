@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React three js fiber model example
+
+Added this libraries to create our poject
+
+### `yarn add three react-intersection-observer react-three-fiber drei lerp react-scripts react-spring`
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
