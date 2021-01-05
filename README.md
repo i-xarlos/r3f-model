@@ -2,7 +2,7 @@
 
 Added this libraries to create our poject
 
-### `yarn add three react-intersection-observer react-three-fiber drei lerp react-scripts react-spring`
+## `yarn add three react-intersection-observer react-three-fiber drei lerp react-scripts react-spring`
 
 ## Getting Started with Create React App
 
